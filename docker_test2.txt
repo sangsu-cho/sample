@@ -1,0 +1,43 @@
+초기화
+mkdir test
+cd test
+git init 	
+
+파일 생성 추가
+git add C:\Users\nuck6\helloworld\docker_test.txt
+
+커밋
+git commit -m "coment"
+
+확인
+git status
+
+저장소 연결
+git remote add origin https://github.com/sangsu-cho/sample
+
+로컬 저장소 원격 저장소에 반영
+git push origin master
+
+복제
+git clone https://github.com/adjh54ir/multiflex-docker.git	
+
+브랜치 목록
+git branch
+
+브랜치생성	
+git branch subdir01
+
+지점 이동 checkout
+git checkout subdir01
+
+
+	
+git remoter 
+
+C:\Users\nuck6\helloworld
+
+
+
+
+
+git push origin master
