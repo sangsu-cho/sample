@@ -1,0 +1,16 @@
+test
+
+
+simple-docker-compose-jenkins
+
+https://github.com/adjh54ir/multiflex-docker.git
+
+git clone https://github.com/adjh54ir/multiflex-docker.git
+
+git remote add origin https://github.com/sangsu-cho/sample	저장소 연결
+
+C:\nwork
+
+git init C:\nwork
+
+git remoter 
